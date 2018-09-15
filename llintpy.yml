@@ -1,0 +1,5 @@
+module_paths:
+  - connect_four
+  - setup.py
+  - tests/pyunit
+exclude_modules: []
